@@ -14,7 +14,7 @@
 - <span style="font-size:18px;font-family: Times New Roman;">Để đảm bảo mọi người có trải nghiệm tốt vay vốn tích cực, Home Credit sử dụng nhiều loại dữ liệu thay thế để dự đoán khả năng trả nợ của khách hàng. Từ đó đảm bảo rằng các khách hàng có khả năng trả nợ sẽ không bị từ chối và các khoản vay được cung cấp sẽ thanh toán đúng hạn.</span>
 
 ## 2.2 Giới thiệu cấu trúc bộ dữ liệu
-![Data/description.png](attachment:description.png)
+![Description](Data/description.png)
 - <span style="font-size:20px;font-family: Times New Roman;">**Gồm 3 phần chính**</span>
     - <span style="font-size:18px;font-family: Times New Roman;">Application: gồm dữ liệu tất cả các đơn đơn ký vay của Home Credit của trước và hiện tại.</span>
     - <span style="font-size:18px;font-family: Times New Roman;">Bureau: gồm dữ liệu bao gồm tất cả các khoản tính dụng trước đây của khách hàng được cung cấp bởi các tổ chức tài chính khác đã được báo cáo cho Phòng Tín Dụng của Home Credit.</span>
