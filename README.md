@@ -36,7 +36,7 @@
 - <span style="font-size:18px;font-family: Times New Roman;"> pip3 install -r requirement.txt</span>
 
 ## 3.3 Dataset Home Credit
-- <span style="font-size:18px;font-family: Times New Roman;"> Vì giới hạn của lưu trữ của github (data hiện là 2.67 GB) nên nhóm sẽ lưu trữ data trên google driver</span>
+- <span style="font-size:18px;font-family: Times New Roman;"> Vì giới hạn của lưu trữ của github (data hiện là 2.67 GB) nên nhóm sẽ lưu trữ data trên google drive</span>
 <span style="font-size:18px;font-family: Times New Roman;">https://drive.google.com/drive/u/0/folders/1LbBpsJHSXbq3G79bbcTEisz2vwRBW4SZ</span>
 
 # 4 Thông tin liên hệ
